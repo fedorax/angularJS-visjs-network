@@ -38,7 +38,7 @@ function networkController() {
             shape: 'dot'
         },
         edges: {
-            size: 20
+            font: { size: 20 }
 
         },
         interaction: {
